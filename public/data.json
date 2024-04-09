@@ -1,0 +1,7 @@
+{
+    "users":[
+        {"id": 1, "name": "Filip", "email":"filipmalpa@wp.pl"},
+        {"id": 2, "name": "Szymon", "email": "szymongej@wp.pl"},
+        {"id": 3, "name": "Antoni", "email": "tenco@jajami.dzwoni"}
+    ]
+}
